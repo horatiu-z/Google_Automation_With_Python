@@ -1,6 +1,6 @@
 # Learning
 
-This set of scripts were the final asignment to on the Google certification
+This set of scripts were the final assignment to on the Google certification
 They are designed to:
 1. Convert images from .tiff to JPEG and resize them
 2. Upload the JPEG images to the webserver
